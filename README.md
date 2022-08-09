@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DiscordT00ls which makes cool discord tools!
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python!
